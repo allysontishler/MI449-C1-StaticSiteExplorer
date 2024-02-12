@@ -1,8 +1,8 @@
 ---
-title: Stellar Starships
+title: How to Place an Order
 ---
-Welcome to Stellar Starships! Our company specializes in crafting customized starships tailored to your wildest dreams, ensuring that your journey through the universe is unforgettable. Find out more about Stellar Starships in our [About page!](about.html)
 
-## Stellar Starships
+## Want to place an order for a starship? Find more informatin here!
 
-### The place for personally customized starships!
+Welcome to Stellar Starships! Our company specializes in crafting customized starships tailored to your wildest dreams, ensuring that your journey through the universe is unforgettable. 
+
