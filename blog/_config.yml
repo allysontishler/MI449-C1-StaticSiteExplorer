@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: netlify
-  site_id: https://mi449-c1-staticsiteexplorer.netlify.app
+  site_id: 2c5e7ed4-fc8b-4731-b082-d527314ad916
   publish: public
